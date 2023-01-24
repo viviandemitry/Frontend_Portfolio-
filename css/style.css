@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.container {
+    position:relative;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    height: 70%;
+
+    background: #B3E2DA;
+    box-shadow: 0px 4px 50px #B3E2DA;
+    border-radius: 25px;
+}
+
+ul {
+    position: absolute;
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 600px;
+    height: 60px;
+    left: 25%;
+    top: 20px;
+    margin: 5px;
+    padding: 20px;
+
+    background: #FFDBF3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+}
+
+li{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+    padding: 20px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 29px;
+
+    color: #095548;
+
+}
+
+.cv {
+    position: absolute;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    width: 280px;
+    height: 60px;
+    right: 27%;
+    top: 20px;
+    margin: 5px;
+    padding: 20px;
+
+    background: #095548;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+
+}
+
+p {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 29px;
+    color: #FFDBF3;
+}
+
+.right {
+    position: absolute;
+
+}
+
+img {
+    position: absolute;
+    width: 450px;
+    height: 480px;
+    left: 1200px;
+    top: 280px;
+    border-radius: 50%;
+    display:flex;
+    background: url(frontend.engineerfrontend.softwareengineer.juniorfrontend.design);
+    box-shadow: 4px 4px 60px 5px #095548;
+}
+
+.left{
+    position: absolute;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    left: 280px;
+    top:280px;
+}
+
+
+.size{
+    width:700px;
+    height: 100px;
+    padding-top:20px;
+    margin-top:20px;
+}
+
+h3{   
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 35px;
+    border-bottom:20px;
+
+    color: #095548;
+}
+
+h1 {
+    
+    width: 263px;
+    height: 144px;
+    margin-bottom: 60px;
+    
+    font-family: 'Satisfy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 150px;
+    line-height: 144px;
+    
+    
+    color: #095548;
+}
