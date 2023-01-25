@@ -42,10 +42,10 @@ nav ul {
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    width: 600px;
-    height: 60px;
+    width: 300px;
+    height: 30px;
     left: 25%;
-    top: 20px;
+    top: 10px;
     margin: 5px;
     padding: 20px;
 
@@ -63,8 +63,8 @@ nav li{
 
     font-family: 'Roboto';
     font-style: normal;
-    font-weight: 400;
-    font-size: 30px;
+    font-weight: 500;
+    font-size: 15px;
     line-height: 29px;
 
     color: #095548;
@@ -77,10 +77,10 @@ nav li{
     align-items: center;
     justify-content: center;
     position: absolute;
-    width: 280px;
-    height: 60px;
+    width: 140px;
+    height: 30px;
     right: 27%;
-    top: 20px;
+    top: 10px;
     margin: 5px;
     padding: 20px;
 
@@ -93,8 +93,8 @@ nav li{
 p a {
     font-family: 'Roboto';
     font-style: normal;
-    font-weight: 400;
-    font-size: 30px;
+    font-weight: 500;
+    font-size: 15px;
     line-height: 29px;
     color: #FFDBF3;
 }
@@ -106,10 +106,10 @@ p a {
 
 .right img {
     position: absolute;
-    width: 450px;
-    height: 480px;
-    left: 1200px;
-    top: 280px;
+    width: 250px;
+    height: 240px;
+    left: 600px;
+    top: 140px;
     border-radius: 50%;
     display:flex;
     background: url(frontend.engineerfrontend.softwareengineer.juniorfrontend.design);
@@ -122,23 +122,23 @@ p a {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    left: 280px;
-    top:280px;
+    left: 140px;
+    top:140px;
 }
 
 
 .size{
-    width:700px;
-    height: 100px;
-    padding-top:20px;
-    margin-top:20px;
+    width:350px;
+    height: 50px;
+    padding-top:10px;
+    margin-top:10px;
 }
 
 h3{   
     font-family: 'Roboto';
     font-style: normal;
-    font-weight: 400;
-    font-size: 40px;
+    font-weight: 200;
+    font-size: 20px;
     line-height: 35px;
     border-bottom:20px;
 
@@ -146,56 +146,56 @@ h3{
 }
 
 h3.correct{
-    line-height: 50px;
+    line-height: 25px;
 
 }
 
 h1 {  
-    width: 263px;
-    height: 144px;
-    margin-bottom: 60px;
+    width: 133px;
+    height: 77px;
+    margin-bottom: 30px;
     
     font-family: 'Satisfy';
     font-style: normal;
     font-weight: 400;
-    font-size: 150px;
-    line-height: 144px;
+    font-size: 75px;
+    line-height: 77px;
     color: #095548;
 }
 
 h1.size.letter{
     position: absolute;
-    font-size: 100px;
-    left:550px;
-    top:-150px;
+    font-size: 50px;
+    left:275px;
+    top:-75px;
 
 }
 
 h1.size.letter.contact{
     position: absolute;
-    font-size: 100px;
-    left:310px;
-    top:-150px;
+    font-size: 50px;
+    left:165px;
+    top:-75px;
 
 }
 
 i.fa.fa-solid.fa-briefcase {
     position: absolute;
-    font-size: 50px;
-    width: 300px;
-    height: 144px;
-    left:450px;
-    top:-70px;
+    font-size: 25px;
+    width: 150px;
+    height: 72px;
+    left:225px;
+    top:-35px;
     color: #095548;    
 }
 
 i.fa.fa-solid.fa-user {
     position: absolute;
-    font-size: 55px;
-    width: 300px;
-    height: 144px;
-    left:515px;
-    top:205px;
+    font-size: 27px;
+    width: 150px;
+    height: 77px;
+    left:260px;
+    top:103px;
     color: #095548;    
 }
 
@@ -203,13 +203,11 @@ i.fa.fa-solid.fa-user {
 .proj_1 img {
     position:absolute;
     display: flex;
-    border-radius: 0px;
-    width: 300px;
-    height: 300px;
-    border-radius: 20px;
-    top:400px;
-    left:250px;
-
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    top:200px;
+    left:125px;
 
     background: #D9D9D9;
     box-shadow: 0px 4px 5px #095548;
@@ -219,15 +217,15 @@ i.fa.fa-solid.fa-user {
 .proj_1 h3{
     position:absolute;
     display: flex;
-    top:750px;
-    left:330px;
-    width:200px;
+    top:375px;
+    left:165px;
+    width:100px;
     font-family: 'Roboto';
     font-style: normal;
-    font-weight: 400;
-    font-size: 35px;
-    line-height: 35px;
-    border-bottom:20px;
+    font-weight: 200;
+    font-size: 18px;
+    line-height: 17px;
+    border-bottom:10px;
 
     color: #095548;
 
@@ -237,11 +235,11 @@ i.fa.fa-solid.fa-user {
     position:absolute;
     display: flex;
     border-radius: 0px;
-    width: 300px;
-    height: 300px;
-    border-radius: 20px;
-    top:400px;
-    left: 810px;
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    top:200px;
+    left: 405px;
 
     background: #D9D9D9;
     box-shadow: 0px 4px 5px #095548;
@@ -252,14 +250,15 @@ i.fa.fa-solid.fa-user {
     position:absolute;
     display: flex;
     width:200px;
-    top:750px;
-    left:890px;
+    top:375px;
+    left:445px;
+    width:100px;
     font-family: 'Roboto';
     font-style: normal;
-    font-weight: 400;
-    font-size: 35px;
-    line-height: 35px;
-    border-bottom:20px;
+    font-weight: 200;
+    font-size: 18px;
+    line-height: 17px;
+    border-bottom:10px;
 
     color: #095548;
 
@@ -270,11 +269,11 @@ i.fa.fa-solid.fa-user {
     position:absolute;
     display: flex;
     border-radius: 0px;
-    width: 300px;
-    height: 300px;
-    border-radius: 20px;
-    top:400px;
-    left:1370px;
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    top:200px;
+    left:685px;
 
     background: #D9D9D9;
     box-shadow: 0px 4px 5px #095548;
@@ -283,15 +282,15 @@ i.fa.fa-solid.fa-user {
 .proj_3 h3{
     position:absolute;
     display: flex;
-    top:750px;
-    left:1450px;
-    width:200px;
+    top:375px;
+    left:725px;
+    width:100px;
     font-family: 'Roboto';
     font-style: normal;
-    font-weight: 400;
-    font-size: 35px;
-    line-height: 35px;
-    border-bottom:20px;
+    font-weight: 200;
+    font-size: 18px;
+    line-height: 17px;
+    border-bottom:10px;
 
     color: #095548;
 
@@ -302,22 +301,22 @@ ul.list_contact{
     position:absolute;
     flex-direction: column;
     list-style: none;
-    top:420px;
-    left:500px;
-    width:1000px;
-    height: 500px;
+    top:210px;
+    left:250px;
+    width:500px;
+    height: 250px;
     font-family: 'Roboto';
     font-style: normal;
-    font-weight: 550;
-    font-size: 40px;
-    line-height: 35px;
+    font-weight: 275;
+    font-size: 20px;
+    line-height: 18px;
 
     color: #095548;
 }
 
 .fa.fa-brands.fa-whatsapp, .fa.fa-solid.fa-envelope,
 .fa.fa-brands.fa-linkedin, .fa.fa-brands.fa-github {
-    margin:15px;
+    margin:8px;
     color: #e18ae4;
 
 }
