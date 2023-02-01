@@ -1,6 +1,6 @@
 <h2 align="center">Portfolio Design</h2>
 <br>
-<p align="center"> I really enjoy the design process, so to drew it throw Figma is one of the best part!</p>
+<p align="center"> I enjoy a lot the design process, so drawing it through Figma is one of the best parts!</p>
 <br>
 <h3 align="center">Here's the first step done:</h3>
 <p align="center"><img src="https://github.com/viviandemitry/portfolio.viviandemitry.github.io/blob/main/img/figma_pic.png"></p>
