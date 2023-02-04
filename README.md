@@ -1,4 +1,4 @@
-<h2 align="center">Portfolio Design</h2>
+<h2 align="center">Portfolio Vivian De Mitry</h2>
 <br>
 <p align="center"> I enjoy a lot the design process, so drawing it through Figma was one of the best parts!</p>
 <br>
